@@ -27,4 +27,4 @@ Put the project outside of the web2py installation. (I keep it in the Eclipse
 the workspace.) 
 
 
-Project site: https://code.google.com/p/neo-web2py-utils/
+Project site: https://github.com/Pierre-Thibault/neo-web2py-utils/

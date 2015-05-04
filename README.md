@@ -28,3 +28,9 @@ the workspace.)
 
 
 Project site: https://github.com/Pierre-Thibault/neo-web2py-utils/
+
+Comments or questions? [Join the user group](http://groups.google.com/group/neo-users)
+
+Author: Pierre Thibault (pierre.thibault1 -at- gmail.com)
+
+License: MIT

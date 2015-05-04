@@ -1,11 +1,11 @@
 #summary How to install the package.
 
-= Dependency =
+## Dependency
 
   * neo-utils
   * web2py
 
-= Installation =
+## Installation
 
 The project contains only one package: neo_web2py_utils. The project is called 
 neo-web2py-utils and it contains the package neo_web2py_utils. It is 
